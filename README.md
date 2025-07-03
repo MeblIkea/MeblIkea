@@ -1,5 +1,5 @@
 ## Hi there 👋
 
-### I've contributed in [Jalopy Modding Community](https://github.com/Jalopy-Mods) and [Nordic Overlay for Place](https://github.com/Meb-Do-Stuff/NordicPlace).
+### I've contributed in [Jalopy Modding Community](https://github.com/Jalopy-Mods) and [Nordic Overlay for Place](https://github.com/MeblIkea/NordicPlace).
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=wfgb8exieauivdusod7nkggco)
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=MeblIkea)
