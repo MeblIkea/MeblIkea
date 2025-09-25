@@ -2,13 +2,12 @@
 
 ### WHOAMI
 
-## Hi there 👋
-
+## Hey
 Computer Science Student,<br>
 Music Enjoyer,<br>
 Projects Doer
 
-## Salut 👋
+## Salut
 Étudiant en Informatique,<br>
 Écouteur de Musique,<br>
 Faiseur de Projets<br><br>
