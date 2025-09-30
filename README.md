@@ -9,7 +9,7 @@ Projects Doer
 
 ## Salut
 Étudiant en Informatique,<br>
-Écouteur de Musique,<br>
+Appréciateur de Musique,<br>
 Faiseur de Projets<br><br>
 
 
