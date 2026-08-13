@@ -1,4 +1,4 @@
-![La Jetée](https://raw.githubusercontent.com/MeblIkea/MeblIkea/refs/heads/main/Chris.png)
+![La Jetée](https://raw.githubusercontent.com/MeblIkea/MeblIkea/refs/heads/main/Untitled.png)
 
 ### WHOAMI
 
